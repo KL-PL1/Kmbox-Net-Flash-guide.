@@ -22,4 +22,4 @@ The Two USB 2.0 cables need to be connected to your main pc as well.
 17. Search and select the firmware file you download from our server.
 18. And click "3.Program"
 19. ![Dashboard](Images2/9.png)
-20. Firmware flash is now complete connect your Kmbox NET like in the Kmbox Net Guide.
+20. Firmware flash is now complete connect your Kmbox NET like in the [Kmbox Net Guide.](https://github.com/KL-PL1/Kmbox-Net-guide)
